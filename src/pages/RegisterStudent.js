@@ -30,7 +30,6 @@ function RegisterStudent({ onRegister }) {
   };
 
   return (
-    <div className="max-w-7xl mx-auto p-6" style={{ background: 'linear-gradient(135deg, #4facfe, #00f2fe)' }}>
 
     <div className="max-w-3xl mx-auto p-6">
       <div className="bg-white rounded-lg shadow-lg p-8">
@@ -133,7 +132,7 @@ function RegisterStudent({ onRegister }) {
         </form>
       </div>
     </div>
-    </div>
+    
   );
 }
 
